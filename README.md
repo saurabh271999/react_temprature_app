@@ -16,7 +16,7 @@ A simple weather application built using React and OpenWeatherMap API that allow
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   https://github.com/saurabh271999/react_temprature_app.git
    ```
 2. Navigate to the project directory:
    ```sh
